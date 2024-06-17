@@ -26,7 +26,7 @@ Certifique-se de ter o seguinte instalado:
 1. Clone o repositório:
 
    ```sh
-   git clone git@github.com:fernandomeddev/full-stack-case.git
+   git clone git@github.com:fernandomeddev/pm-api
    
 
 ## Executando a Aplicação Localmente
